@@ -2,9 +2,11 @@
 
 Installation
 
-npm install
-cd /ios
-pod install
+1) npm install
+2) cd /ios
+3) pod install
+
+Steps:
 
 1) Open the project in xcode
 2) Open iphone simulator, Open carplay simulator
